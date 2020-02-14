@@ -1,0 +1,10 @@
+console.log('Hi there!');
+const myName: string = 'Stephen';
+const pi: number = 3.14;
+const isCold: boolean = false;
+const nothingHere: null = null;
+const noDefinition: undefined = undefined;
+const anyExample: any = true;
+const anyExample2: any = [];
+const anyExample3: any = {};
+const anyExample4: any = undefined;
